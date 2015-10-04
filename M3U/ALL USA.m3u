@@ -2,16 +2,12 @@
 #EXTINF:-1,[COLOR blue][I][B]--- 01-10-2015 ---[/B][/I][/COLOR]
 #EXTINF:-1, [COLOR green] --REDENEOBUX.COM 01-10-2015--[/COLOR]
 
-#EXTINF:-1,[COLOR orange]--- To get more US channels, please install IPTV Stalker Addon ---[/COLOR]
-http://0.0.0.0:1234
 
 #EXTINF:-1,[COLOR yellow]--- US CHANNELS ---[/COLOR]
 http://0.0.0.0:1234
 
 #EXTINF:-1, NASA HD
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-
-
 
 #EXTINF:0,WGN
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
@@ -24,8 +20,6 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/f
 
 #EXTINF:-1, Cartoon Network
 http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-
-
 
 #EXTINF:-1, NBC GOLF SD
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
