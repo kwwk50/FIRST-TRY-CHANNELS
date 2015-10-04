@@ -83,11 +83,21 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1,Kiss Tv Music
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
-#EXTINF:-1,SATISFACTION HD
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
+#EXTINF:-1, ESPN
+http://199.180.114.174:8000/espn.m3u8
 
-#EXTINF:-1,HOT SHOTS
-http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+#EXTINF:-1, ESPN 3
+http://199.180.114.174:8000/espn3.m3u8
+
+#EXTINF:-1, FOX SPORTS
+http://199.180.114.174:8000/foxs.m3u8
+
+#EXTINF:-1, FOX SPORTS 2
+http://199.180.114.174:8000/foxs2.m3u8
+
+#EXTINF:-1, FOX SPORTS 3
+http://199.180.114.174:8000/foxs3.m3u8
+
 
 
 
