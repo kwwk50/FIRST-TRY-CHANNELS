@@ -83,8 +83,14 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1,Kiss Tv Music
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
-#EXTINF:-1, Adulto Premium TV (18+)
-http://j.mp/T_AdultoPremiumTV_sly?.m3u8
+#EXTINF:-1,SATISFACTION HD
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/pld499
+
+#EXTINF:-1,HOT SHOTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+
+
+
 
 
 
