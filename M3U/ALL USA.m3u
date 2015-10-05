@@ -6,24 +6,9 @@
 #EXTINF:-1,[COLOR yellow]--- US CHANNELS ---[/COLOR]
 http://0.0.0.0:1234
 
-#EXTINF:-1, NASA HD
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 
-#EXTINF:0,WGN
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
 
-#EXTINF:0,NASA TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
-#EXTINF:0,Weather Channel US
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
-
-#EXTINF:-1, Cartoon Network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-
-#EXTINF:-1, NBC GOLF SD
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
- 
 #EXTINF:-1, NBC GOLF 720p
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
  
@@ -54,23 +39,6 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8?
 #EXTINF:0,PAC-12 Net. (Washington)
 http://xrxs.net/video/live-p12wash-4728.m3u8?
 
-#EXTINF:-1,USA-BASKET UNI.(Arizona)
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-
-#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
-http://xrxs.net/video/live-p12losa-1164.m3u8
-
-#EXTINF:-1,USA-BASKET UNI.(Moutain)
-http://xrxs.net/video/live-p12moun-1164.m3u8
-
-#EXTINF:-1,USA-BASKET UNI.(Oregon)
-http://xrxs.net/video/live-p12oreg-1164.m3u8
-
-#EXTINF:-1,USA-BASKET UNI.(Washington)
-http://xrxs.net/video/live-p12wash-2328.m3u8
-
-#EXTINF:-1, [COLOR yellow]--- MUSIC ---[/COLOR]
-
 #EXTINF:-1,Vevo1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 
@@ -82,22 +50,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 
 #EXTINF:-1,Kiss Tv Music
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-
-#EXTINF:-1, ESPN
-http://199.180.114.174:8000/espn.m3u8
-
-#EXTINF:-1, ESPN 3
-http://199.180.114.174:8000/espn3.m3u8
-
-#EXTINF:-1, FOX SPORTS
-http://199.180.114.174:8000/foxs.m3u8
-
-#EXTINF:-1, FOX SPORTS 2
-http://199.180.114.174:8000/foxs2.m3u8
-
-#EXTINF:-1, FOX SPORTS 3
-http://199.180.114.174:8000/foxs3.m3u8
-
 
 
 
